@@ -2,6 +2,8 @@
 
 [Sirui Xu](https://sirui-xu.github.io/), [Yu-Xiong Wang*](https://yxw.web.illinois.edu/), [Liang-Yan Gui*](https://scholar.google.com/citations?user=3aE0r9QAAAAJ&hl=en&oi=ao)
 
+<img src="demo/result.gif" width="100%"/>
+
 ## Introduction
 
 
@@ -21,7 +23,7 @@ Please **click** the gif below to check our full demo and reach out to [Ziqi Pan
 [![Demo video](./assets/video_demo_cover.gif)](https://www.youtube.com/watch?v=eJghONb2AGg) -->
 
 If you find our code or paper useful, please cite by:
-```tex
+```bibtex
 @inproceedings{
 xu2023stochastic,
 title={Stochastic Multi-Person 3D Motion Forecasting},
