@@ -1,7 +1,5 @@
 # [ICLR 2023] Stochastic Multi-Person 3D Motion Forecasting
 
-[Sirui Xu](https://sirui-xu.github.io/), [Yu-Xiong Wang*](https://yxw.web.illinois.edu/), [Liang-Yan Gui*](https://scholar.google.com/citations?user=3aE0r9QAAAAJ&hl=en&oi=ao)
-
 <img src="demo/result.gif" width="100%"/>
 
 ## Introduction
