@@ -24,11 +24,11 @@ Please **click** the gif below to check our full demo and reach out to [Ziqi Pan
 If you find our code or paper useful, please cite by:
 ```bibtex
 @inproceedings{
-xu2023stochastic,
-title={Stochastic Multi-Person 3D Motion Forecasting},
-author={Sirui Xu and Yu-Xiong Wang and Liangyan Gui},
-booktitle={ICLR},
-year={2023},
+    xu2023stochastic,
+    title={Stochastic Multi-Person 3D Motion Forecasting},
+    author={Sirui Xu and Yu-Xiong Wang and Liangyan Gui},
+    booktitle={ICLR},
+    year={2023},
 }
 ```
 
