@@ -5,7 +5,7 @@
 ## Introduction
 
 
-This is the official implementation of "[Stochastic Multi-Person 3D Motion Forecasting](https://openreview.net/pdf?id=_s1N-DnxdyT)." 
+This is the official implementation of "[Stochastic Multi-Person 3D Motion Forecasting](https://arxiv.org/abs/2306.05421)." 
 
 ## What's New
 * [version 1.0] Code for diffusion-based DuMMF.
