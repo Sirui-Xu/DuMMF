@@ -7,7 +7,8 @@
 
 This is the official implementation of "[Stochastic Multi-Person 3D Motion Forecasting](https://openreview.net/pdf?id=_s1N-DnxdyT)." 
 
-[version 1.0] Code for diffusion-based DuMMF.
+## What's New
+* [version 1.0] Code for diffusion-based DuMMF.
 
 <!-- [[website](https://sirui-xu.github.io/STARS/)] [[arxiv](https://arxiv.org/abs/2302.04860)] [[demo](https://sirui-xu.github.io/STARS/images/demo.mp4)] [[poster](https://sirui-xu.github.io/assets/pdf/STARS_poster.pdf)] [[slides](https://sirui-xu.github.io/assets/pdf/STARS_slides.pdf)] [[talk](https://sirui-xu.github.io/STARS/images/talk.mp4)] -->
 <!-- Our PF-Track illustrates significant advantages in:
@@ -19,7 +20,7 @@ This is the official implementation of "[Stochastic Multi-Person 3D Motion Forec
 Please **click** the gif below to check our full demo and reach out to [Ziqi Pang](https://ziqipang.github.io/) if you are interested. Our method seamlessly **address occlusions and hand-over between cameras**. -->
 <!-- 
 [![Demo video](./assets/video_demo_cover.gif)](https://www.youtube.com/watch?v=eJghONb2AGg) -->
-
+## Citation
 If you find our code or paper useful, please cite by:
 ```bibtex
 @inproceedings{
