@@ -26,7 +26,7 @@ If you find our code or paper useful, please cite by:
 @inproceedings{
     xu2023stochastic,
     title={Stochastic Multi-Person 3D Motion Forecasting},
-    author={Sirui Xu and Yu-Xiong Wang and Liangyan Gui},
+    author={Xu, Sirui and Wang, Yu-Xiong and Gui, Liangyan},
     booktitle={ICLR},
     year={2023},
 }
